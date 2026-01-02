@@ -80,12 +80,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prajjwal-Vish&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🔭 **Currently Building:** [SnapFen](https://github.com/Prajjwal-Vish/Generate-FEN-notation-from-Chess-Position-Image) (Turning Chess images into FEN)
 - 👯 **Deep Dive:** [AI Content Researcher](https://github.com/Prajjwal-Vish/Content-Geeneration-using-AI-for-Social-Media-) for Social Media automation.
